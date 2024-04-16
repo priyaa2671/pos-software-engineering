@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-// Checkstyle: Checks the code style according to the Google Java Style Guide
+// Checkstyle: src/main/resources/google_checks.xml
 
 public class Main {
     public static void main(String[] args) {
